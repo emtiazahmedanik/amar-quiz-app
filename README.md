@@ -7,6 +7,10 @@ This a quiz app created for developers, learners. Where people can assess their 
 - SetState for state management
 ## Getting Started
 
+
+https://github.com/user-attachments/assets/e84bf534-6a57-45ed-a579-6f7f7ef4d79f
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
