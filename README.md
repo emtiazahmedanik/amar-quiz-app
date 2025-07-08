@@ -1,7 +1,10 @@
 # amar_quiz_app
 
-A new Flutter project.
-
+This a quiz app created for developers, learners. Where people can assess their skill on various topic like Html, JavaScript, React, Flutter, Python <br/><br/>
+🔥Tech Stack<br/>
+- Flutter
+- Hive for local storage
+- SetState for state management
 ## Getting Started
 
 This project is a starting point for a Flutter application.
